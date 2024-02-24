@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url(images/fondo.jpg);
+    background-image: url(fondo.jpg);
     background-size: 300px;
     margin: 20px auto;
     display:flex;
